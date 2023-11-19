@@ -4,6 +4,10 @@
 
 This repository contains a collection of basic algorithms written in Java, primarily derived from the coursework of the "20441 Introduction to Computer Science" class that I studied at the Open University of Israel in 2019b. I primarily work in C, C++, and Python, but this project is a testament to my foundational skills in Java.
 
+![image](https://github.com/Dor-sketch/IntroToCS_mmn14/assets/138825033/a3c6642a-d6f0-48f8-84e3-471a41a4d334)
+
+---
+
 ## 🏆 Achievements
 
 - Successfully completed the course with a grade of 90.
